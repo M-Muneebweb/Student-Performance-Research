@@ -1,0 +1,6 @@
+Model,RMSE,R2
+Linear Regression,2.0436522,0.7963177
+Decision Tree,2.1168402,0.7814678
+Random Forest Tuned,1.8296404,0.8367433
+Gradient Boosting,1.8370103,0.8354255
+Voting Regressor,1.7759639,0.8461818
